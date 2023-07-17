@@ -15,6 +15,11 @@ div.main {
     background-color: #c6d1d3;
 }
 
+ve-footer {
+    background-color: #c6d1d3;
+}
+
 sup::before {
-    max-height: 20px;
+    max-height: 10px;
+    margin: 0;
 }
