@@ -8,9 +8,11 @@
 
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
 
-.ve-media https://www.loc.gov/item/2007687055/manifest.json "The owls." right
+.ve-media https://www.loc.gov/item/2007687055/manifest.json caption="The owls." right
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
+
+.ve-iframe https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
@@ -21,7 +23,7 @@ Owls are interesting and complex creatures. This one isn't real. The owls are no
 
 ### Aulacophora indica
 
-.ve-media wc:The_Bug_Peek.jpg "also caption" full
+.ve-media wc:The_Bug_Peek.jpg "also caption" full width="90%"
 
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
