@@ -8,9 +8,9 @@
 
 ## Nuclear power {.cards}
 
-### History {href="https://www.juncture-digital.org/kseniaafm/essays"}
+### Sample {href="/sample"}
 
-All about the history of nuclear power
+All about the history of nuclear power. [^1]
 
 ### How it works {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
 
@@ -24,3 +24,4 @@ Nuclear accidents over time
 
 The present and future of nuclear energy
 
+[^1]: Lorem ipsum etcetera etcetera
