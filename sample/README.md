@@ -8,7 +8,7 @@
 
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
 
-.ve-media https://www.loc.gov/item/2007687055/manifest.json right
+.ve-media https://www.loc.gov/item/2007687055/manifest.json "The owls." right
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
