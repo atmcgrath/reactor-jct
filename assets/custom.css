@@ -11,15 +11,15 @@ body {
     margin: 0;
 }
 
-div.main {
-    background-color: #c6d1d3;
-}
-
-ve-footer {
+ve-footer div.main {
     background-color: #c6d1d3;
 }
 
 sup::before {
     max-height: 10px;
+    margin: 0;
+}
+
+:target:before {
     margin: 0;
 }
