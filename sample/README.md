@@ -12,6 +12,8 @@ This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatti
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
+Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
+
 ### A map
 
 .ve-map 40.00729,-75.28458 14
@@ -19,7 +21,7 @@ Owls are interesting and complex creatures. This one isn't real. The owls are no
 
 ### Aulacophora indica
 
-.ve-media wc:The_Bug_Peek.jpg full
+.ve-media wc:The_Bug_Peek.jpg "also caption" full
 
 The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
 
