@@ -2,7 +2,7 @@
 
 ## juncture recommended iframe tag
 
-.ve-iframe https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+.ve-iframe src=https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link allowfullscreen=True
 
 ## juncture test settings
 
