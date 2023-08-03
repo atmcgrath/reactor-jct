@@ -3,6 +3,7 @@
 .ve-header "Nuclear Energy Basics" wc:Lukmanierpass%2C_Passo_del_Lucomagno._20-09-2022._%28actm.%29_04.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College" logo=favicon.ico
     - [Home](/)
     - [Sample](sample/)
+    - [viz](visualization)
 
 # Nuclear Power
 
